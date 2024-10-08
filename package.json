@@ -1,0 +1,25 @@
+{
+  "name": "csi3370",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expo": "^51.0.36",
+    "glob": "^11.0.0",
+    "react-native": "^0.72.0"
+  },
+  "devDependencies": {
+    "metro": "^0.80.12",
+    "metro-core": "^0.80.12",
+    "metro-react-native-babel-preset": "^0.77.0"
+  }
+}
